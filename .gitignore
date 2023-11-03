@@ -351,3 +351,6 @@ build/
 
 **/flutter_export_environment.sh
 **/.dart_tool
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
